@@ -1,0 +1,6 @@
+{
+  "name": "المكتب الوطني - منصة الخدمات الإلكترونية",
+  "description": "منصة ذكية تابعة للمكتب الوطني لاستقبال، تصنيف، معالجة ومتابعة طلبات الخدمات الإلكترونية وتوفير الردود التلقائية الذكية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
